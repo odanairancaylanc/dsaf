@@ -2,3 +2,4 @@ Fix issue in Y [umpRyL] line 1.1
 Update documentation [26Hh0v] line 5.1
 Add test case for W [A2iL0F] line 7.1
 Improve performance [ncrb5K] line 8.1
+Refactor codebase with Z [5g5nll] line 9.1
